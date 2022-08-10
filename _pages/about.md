@@ -1,14 +1,4 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-Yongbin Li This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Yongbin Li（李永彬）, graduated from Tsinghua University, senior staff algorithm expert of Alibaba DAMO Academy. My research direction is Conversational AI & NLP, such as pre-trained dialog models, task-oriented dialogue, TableQA, KBQA, document-based question answering, multimodal dialogue. In recent years, I have published a number of top conference papers, such as ACL/EMNLP/AAAI/SIGIR/KDD. At the same time, We have won the first place in many international leaderboard such as [Spider](https://yale-lily.github.io/spider) / [SParC](https://yale-lily.github.io/sparc) / [CoSQL](https://yale-lily.github.io/cosql) / [DialoGLUE](https://eval.ai/web/challenges/challenge-page/708/leaderboard) / [Commonsense QA 2.0](https://leaderboard.allenai.org/csqa2/submissions/public). As a co-founding member, I built Alibaba Cloud Intelligent Customer Service (阿里云智能客服，又称云小蜜), which has been ranked first in China's conversational AI cloud service market share since 2019.
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me 
 
